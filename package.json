@@ -1,8 +1,8 @@
 {
   "name": "runtime-engine-check",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fast runtime validation of `engines.node` specified in package.json",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": "sramam/runtime-engine-check",
   "author": "Shishir Ramam",
   "engines": {
